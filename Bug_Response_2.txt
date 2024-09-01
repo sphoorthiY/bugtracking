@@ -1,0 +1,9 @@
+Bug Name: Database Connection Error
+Bug ID: 2
+Developer ID: 123
+Updated File Names: main.java
+Description of Changes: i added some functions
+
+Tester Review:
+Response: yes 
+Fixed Status: Fixed

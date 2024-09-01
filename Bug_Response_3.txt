@@ -1,0 +1,9 @@
+Bug Name: UI Alignment Problem
+Bug ID: 3
+Developer ID: 123
+Updated File Names: dfghj
+Description of Changes: 12345678
+
+Tester Review:
+Response: it alomost is done
+Fixed Status: Fixed

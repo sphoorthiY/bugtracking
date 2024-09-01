@@ -1,0 +1,9 @@
+Bug Name: Login Page Issue
+Bug ID: 1
+Developer ID: 123
+Updated File Names: Updated Login.java
+Description of Changes: Added a few functions
+    
+Tester Review:
+Response: The login page works now
+Fixed Status: Fixed
